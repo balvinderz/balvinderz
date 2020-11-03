@@ -40,3 +40,5 @@ https://github.com/flutter/flutter/pull/64644
 https://github.com/flutter/plugins/pull/2979
 <br/>
 https://github.com/flutter/plugins/pull/2974
+<br/>
+https://github.com/flutter/plugins/pull/3224
