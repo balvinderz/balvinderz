@@ -42,3 +42,13 @@ https://github.com/flutter/plugins/pull/2979
 https://github.com/flutter/plugins/pull/2974
 <br/>
 https://github.com/flutter/plugins/pull/3224
+<br/>
+https://github.com/fluttercommunity/plus_plugins/pull/20
+<br/>
+https://github.com/fluttercommunity/plus_plugins/pull/17
+
+Web Apps
+<br/>
+[Unirent](https://unirent.in/)
+<br/>
+[Transcript System](http://onlineservices.rait.ac.in:81/transcript/)
