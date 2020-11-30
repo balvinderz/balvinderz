@@ -5,8 +5,6 @@ Android Apps
 <br/>
 [AnimeWatcher](https://github.com/balvinderz/animewatcher)
 <br/>
-[Upflix](http://upflix.site/)
-<br/>
 [Drive Safe Navi Mumbai](https://play.google.com/store/apps/details?id=nm.traffic.drivesafe&hl=en_US)
 <br/>
 [Medium Article Reader](https://github.com/balvinderz/Medium-Article-Reader)
